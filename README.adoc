@@ -2,13 +2,13 @@
 
 You might have heard of extended detection and response from RSA Conference booths or shiny brochures. Another related acronym is EDR or endpoint detection and response. These may overlap with SIEM, IDS, IPS; depending on how much exposure SOC zombies had with virulent vendors. Faced with alert overload, severe vulnerabilities, exponential prices, and obscene subscription plans we decided to design (might burn and crash before the prototype takes off) an XDR we can call our own.
 
-It is accepted that 0xDR will be inferior to commercial offerings. No global network of pimply threat hunters or a command center to launch backdoored firmware updates from. No ASIC, FPGA, or exotic system on a chip just commodity hardware. It is a goal to have less attack surface but still effective to catch the latest APT.
+It is accepted that 0xDR will be inferior to commercial offerings. No global network of pimply threat hunters or a command center to launch backdoored firmware updates from. No ASIC, FPGA, or exotic system on a chip; just commodity hardware. It is a goal to have less attack surface but still effective to catch the latest APT.
 
-----
+____
        Our XDR
    An inferior XDR
   Vendors, au revoir
-----
+____
 
 == Goals
 
